@@ -15,7 +15,11 @@ Mô hình có độ chính xác accuracy là khoảng 85%.
 ## Phiên bản 1: branch master
 Như thường lệ, đây là branch chứa phiên bản đầu tiên được làm ra, còn nhiều tính năng chưa được hoàn thiện, cũng như cấu tạo của nó.
 
-Các phiên bản sau sẽ được update sau (Nếu như tôi rảnh và cảm thấy sức khoẻ mình trở nên tốt hơn).
+Các phiên bản sau sẽ được update sau (Nếu như tôi rảnh và cảm thấy sức khoẻ mình trở nên tốt hơn). Các tính năng tôi dự định thêm vào:
+- [ ] Kết hợp app chạy với database.
+- [ ] Điều chỉnh cho giống mô hình MVC.
+- [ ] Tạo ra các user (tất nhiên là có cập nhật database lại) để cá nhân hoá cho từng người dùng.
+- [ ] Cho phép người dùng có liên kết với một mô hình dự đoán riêng với dataset họ "câu" được và họ có thể tự huấn luyện mô hình của riêng họ.
 
 Các bạn cũng có thể tự biến tấu và sửa nó thành app của riêng mình.
 

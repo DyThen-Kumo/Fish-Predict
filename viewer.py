@@ -14,11 +14,11 @@ root.title("DỰ ĐOÁN LOÀI CÁ")
 root.geometry("600x300")
 root.iconbitmap(r"img\Kumo-circle.ico")
 
-## Set background
-background = Image.open(path + r"\background.jpg")
-render = ImageTk.PhotoImage(background)
-img = Label(root, image=render)
-img.place(x=0, y=0, relwidth=1, relheight=1)
+# ## Set background
+# background = Image.open(path + r"\background.jpg")
+# render = ImageTk.PhotoImage(background)
+# img = Label(root, image=render)
+# img.place(x=0, y=0, relwidth=1, relheight=1)
 
 # Tạo frame chính
 main_frame = tk.Frame(root)
